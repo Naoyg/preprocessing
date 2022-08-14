@@ -4,3 +4,4 @@
 - [join.ipynb](./join.ipynb)：テーブル同士の結合
 - [spread.ipynb](./spread.ipynb)：横持ちへの変換、スパースマトリックスへの変換
 - [category.ipynb](./category.ipynb)：カテゴリ型の扱い方。カテゴリ型への変換、ダミー変数化、カテゴリ値の集約、カテゴリ値の組み合わせ、カテゴリ型の数値化、カテゴリ型の補完
+- [datetime.ipynb](./datetime.ipynb)：日時型の処理
