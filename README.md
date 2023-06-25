@@ -1,2 +1,2 @@
-# preprcessing
+# preprocessing
 前処理
