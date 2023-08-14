@@ -1,6 +1,6 @@
 # notebooks
 - [selection.ipynb](./selection.ipynb)：抽出
-- [aggregaion.ipynb](./aggregaion.ipynb)：集約。データの価値をなるべく損失せずに圧縮し、データの単位を変換できる処理。
+- [aggregation.ipynb](./aggregation.ipynb)：集約。データの価値をなるべく損失せずに圧縮し、データの単位を変換できる処理。
 - [join.ipynb](./join.ipynb)：テーブル同士の結合
 - [split.ipynb](./split.ipynb)：学習データと検証データの分割、時系列の分割。
 - [spread.ipynb](./spread.ipynb)：横持ちへの変換、スパースマトリックスへの変換
